@@ -1,0 +1,6 @@
+C:\_Software\GitRepos\Sudoku\SudokuCommon\bin\Debug\SudokuCommon.dll
+C:\_Software\GitRepos\Sudoku\SudokuCommon\bin\Debug\SudokuCommon.pdb
+C:\_Software\GitRepos\Sudoku\SudokuCommon\obj\Debug\SudokuCommon.csproj.AssemblyReference.cache
+C:\_Software\GitRepos\Sudoku\SudokuCommon\obj\Debug\SudokuCommon.csproj.CoreCompileInputs.cache
+C:\_Software\GitRepos\Sudoku\SudokuCommon\obj\Debug\SudokuCommon.dll
+C:\_Software\GitRepos\Sudoku\SudokuCommon\obj\Debug\SudokuCommon.pdb
